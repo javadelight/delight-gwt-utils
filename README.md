@@ -6,3 +6,4 @@ mxGWTUtils
 Utilities to write cross-platform Java/GWT applications.
 
 - [Maven Project Reports](http://modules.appjangle.com/mxGWTUtils/latest/project-reports.html)
+
